@@ -1,0 +1,10 @@
+toy1: Constructor
+toy1: Constructor
+toy2: Robot
+toy2: Robot
+toy3: Doll
+toy3: Doll
+toy3: Doll
+toy3: Doll
+toy3: Doll
+toy3: Doll
